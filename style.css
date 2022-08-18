@@ -1,0 +1,26 @@
+.body{
+  font-size: 100px;
+}
+.top{
+  background-image: url("bunting.png");
+  width: 100%;
+  background-color: #EFFFFD;
+  height:300px;
+  text-align: center;
+
+}
+.n1{
+  font-family: 'Satisfy', cursive;
+  font-size: 200px;
+  width: auto;
+}
+.nm{
+  text-align: center;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 400px;
+}
+.gif{
+  text-align: center;
+  height: 1000px;
+  width: auto;
+}
